@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "dnc",
+  "versions": [
+    {
+      "commit": "f5981c66ac6fe27978014c314c4aba39f1962ee3",
+      "tag": "",
+      "parsed_at": "2026-11-06T07:43:21.351060+00:00"
+    }
+  ]
+}
