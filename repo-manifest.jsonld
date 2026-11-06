@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/dnc/commit/f5981c66ac6fe27978014c314c4aba39f1962ee3",
       "git:hexsha": "f5981c66ac6fe27978014c314c4aba39f1962ee3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
