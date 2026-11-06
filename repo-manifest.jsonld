@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/google-deepmind/dnc",
+  "@type": "gh:Repository",
+  "gh:name": "dnc",
+  "gh:owner": "google-deepmind",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/google-deepmind/dnc/commit/f5981c66ac6fe27978014c314c4aba39f1962ee3",
+      "git:hexsha": "f5981c66ac6fe27978014c314c4aba39f1962ee3",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
